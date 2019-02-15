@@ -1,0 +1,27 @@
+{
+  "name": "inner-html",
+  "version": "1.0.0",
+  "description": "simple webcomponent that will display an html property",
+  "main": "inner-html.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borrey/inner-html.git"
+  },
+  "keywords": [
+    "webcomponent",
+    "html",
+    "innerhtml"
+  ],
+  "author": { "name" : "Borrey Kim"
+    , "email" : "borrey@muchlearning.org"
+    , "url" : "https://www.muchlearning.org/"
+    },
+  "licenses": [{ "type" : "MIT", "url": "https://www.opensource.org/licenses/mit-license.php" }],
+  "bugs": {
+    "url": "https://github.com/borrey/inner-html/issues"
+  },
+  "homepage": "https://github.com/borrey/inner-html#readme"
+}
